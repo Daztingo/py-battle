@@ -1,0 +1,4 @@
+"""
+This module handles weaponry
+"""
+
